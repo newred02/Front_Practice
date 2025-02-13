@@ -9,8 +9,8 @@
     "cors": "^2.8.5",
     "cra-template": "1.2.0",
     "express": "^4.21.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^018.0.0",
+    "react-dom": "^18.0.0",
     "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"

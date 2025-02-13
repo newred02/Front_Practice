@@ -11,10 +11,10 @@ const App = () => {
     <Router>
       <div className="p-4">
         <Routes>
-          <Route path="/" element={<Search />} />
+          <Route path="/search" element={<Search />} />
           <Route path="/time" element={<Timer />}/>
           <Route path="/login" element={<Login/>}/>
-          <Route path="/auth/callback" element={<AuthCallback />} />
+          <Route path="/api/auth/callback" element={<AuthCallback />} />
         </Routes>
       </div>
     </Router>
